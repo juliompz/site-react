@@ -1,0 +1,22 @@
+
+footer {
+    background-color: #df5f5f;
+    padding: 24px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+footer .logos img {
+
+    padding: 10px;
+
+}
+
+footer .vava_icon {
+    width: 50px;
+}
+
+footer p {
+    color: #fff;
+}

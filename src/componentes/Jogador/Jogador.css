@@ -1,0 +1,16 @@
+
+.jogador {
+    background-color: #fff;
+    width: 100px;
+    padding: 25px;
+    border: 1px solid #df5f5f;
+}
+
+.jogador .foto {
+    padding: 10px;
+}
+
+.jogador .foto img {
+    width: 80px;
+    border-radius: 100px;
+}
